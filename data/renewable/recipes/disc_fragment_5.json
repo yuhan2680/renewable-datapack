@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:prismarine_shard"
+        },
+        {
+            "item": "minecraft:sculk_catalyst"
+        }
+    ],
+    "result": {
+        "item": "minecraft:disc_fragment_5",
+        "count": 1
+    }
+}
