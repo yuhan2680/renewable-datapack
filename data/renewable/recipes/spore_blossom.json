@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:poppy"
+        },
+        {
+            "item": "minecraft:lilac"
+        },
+        {
+            "item": "minecraft:peony"
+        }
+    ],
+    "result": {
+        "item": "minecraft:spore_blossom",
+        "count": 3
+    }
+}
