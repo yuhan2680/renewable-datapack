@@ -1,9 +1,9 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        " # ",
+        "@#@",
         "#*#",
-        " # "
+        "@#@"
     ],
     "key": {
         "*": {
@@ -11,11 +11,14 @@
         },
         "#": {
             "item": "minecraft:hay_block"
+        },
+        "@": {
+            "item": "minecraft:yellow_wool"
         }
     },
     "result": {
         "item": "minecraft:sponge",
-        "count": 1
+        "count": 2
     }
 }
 
