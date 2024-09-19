@@ -5,5 +5,9 @@
 
 A datapack that makes plenty of resources you can get in survival become renewable resources
 
-# 合成表
-# Table
+# 合成配方
+# Recipe
+
+
+# 战利品表
+# Loot Table
