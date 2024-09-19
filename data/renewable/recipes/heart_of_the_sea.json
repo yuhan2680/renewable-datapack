@@ -10,7 +10,7 @@
             "item": "minecraft:prismarine_shard"
         },
         "@": {
-            "item": "minecraft:ender_eye"
+            "item": "minecraft:diamond"
         },{
         "*":{
             "item":"minecraft:nautilus_shell"

@@ -1,11 +1,13 @@
-# 万物可再生数据包
-# Everything Renwable Datapack
+# 物品可再生数据包
+# Renewable Datapack
 
-一个可以让所有生存可获得物资成为可再生资源的数据包（除龙蛋等特殊方块外）
+一个可以让大部分生存可获得物品成为可再生资源的Minecraft数据包
 
-A datapack that makes every resources you can get in survival become renewable resources(Except some special block like Ender Dragon's egg)
+A datapack that makes plenty of resources you can get in survival become renewable resources
 
-# 合成表
-# Table
+# 合成配方
+# Recipe
 
-待补
+
+# 战利品表
+# Loot Table
