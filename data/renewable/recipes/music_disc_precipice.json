@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:music_disc_5"
+        },
+        {
+            "item": "minecraft:oxidized_copper"
+        }
+    ],
+    "result": {
+        "item": "minecraft:music_disc_precipice",
+        "count": 1
+    }
+}
