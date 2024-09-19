@@ -6,16 +6,16 @@
         " # "
     ],
     "key": {
-        "#": {
+        "*": {
             "item": "minecraft:prismarine_crystals"
         },
-        "*": {
+        "#": {
             "item": "minecraft:hay_block"
         }
     },
     "result": {
         "item": "minecraft:sponge",
-        "count": 2
+        "count": 1
     }
 }
 
