@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:guster_banner_pattern"
+        }
+    ],
+    "result": {
+        "item": "minecraft:flow_banner_pattern",
+        "count": 1
+    }
+}
