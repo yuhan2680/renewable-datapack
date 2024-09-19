@@ -1,16 +1,20 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
+        "*#*",
         "#@#",
-        "###"
+        "*#*"
     ],
     "key": {
         "#": {
-            "item": "minecraft:prismarine_crystals"
+            "item": "minecraft:prismarine_shard"
         },
         "@": {
-            "item": "minecraft:diamond"
+            "item": "minecraft:ender_eye"
+        },{
+        "*":{
+            "item":"minecraft:nautilus_shell"
+        }
         }
     },
     "result": {
