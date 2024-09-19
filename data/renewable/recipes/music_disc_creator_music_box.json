@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:music_disc_5"
+        },
+        {
+            "item": "minecraft:decorated_pot"
+        }
+    ],
+    "result": {
+        "item": "minecraft:music_disc_creator_music_box",
+        "count": 1
+    }
+}
